@@ -1,2 +1,2 @@
 # LeetCode
-Personal LeetCode
+Personal python LeetCode repo 
